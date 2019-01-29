@@ -43,6 +43,7 @@ public class ReturnCode {
         messageMap.put(EXCEPTION_OCCUR, "操作失败！系统异常。");
         messageMap.put(API_LACK_PARAMETER, "请求失败，缺少必要参数！");
         messageMap.put(API_WRiTE_INFO_FAILED, "请求失败，数据写入失败！");
+        messageMap.put(API_WRiTE_INFO_FAILED, "请求失败，数据写入失败！");
 
     }
 
